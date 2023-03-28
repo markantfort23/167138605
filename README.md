@@ -8,6 +8,8 @@ A **node** is a point on the map, with a unique ID and the position in GPS (lat,
 
 A **footway** is a path in the map. The ID uniquely identifies the footway. The vector defines points (Nodes) along the footway, and it always contains at least two points.
 
+*** STILL IN PROGRESS! CURRENTLY TROUBLESHOOTING NAVIGATION BUGS, BUT FULLY FUNCTIONAL OTHERWISE ***
+
 ## To run:
 
 To build:
